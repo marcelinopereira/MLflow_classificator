@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/MLFLOW/mlruns/320719597420150206/bb501d81313947e9ab97915ed9acfbe3/artifacts
+end_time: 1757125903308
+entry_point_name: ''
+experiment_id: '320719597420150206'
+lifecycle_stage: active
+run_id: bb501d81313947e9ab97915ed9acfbe3
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757125900842
+status: 4
+tags: []
+user_id: andre

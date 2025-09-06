@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/MLFLOW/mlruns/320719597420150206/f8194d4412374c0eb84587031373f018/artifacts
+end_time: 1757127089870
+entry_point_name: ''
+experiment_id: '320719597420150206'
+lifecycle_stage: active
+run_id: f8194d4412374c0eb84587031373f018
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757126971871
+status: 3
+tags: []
+user_id: andre

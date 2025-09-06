@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/MLFLOW/mlruns/320719597420150206/24d85190c19e40f68375d8adfa091abc/artifacts
+end_time: 1757125427973
+entry_point_name: ''
+experiment_id: '320719597420150206'
+lifecycle_stage: active
+run_id: 24d85190c19e40f68375d8adfa091abc
+run_name: bald-kite-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757125427231
+status: 3
+tags: []
+user_id: andre
