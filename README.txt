@@ -18,4 +18,6 @@ Visualization: Plots confusion matrix with percentages and Decision Tree structu
 
 MLflow is used to monitor experiments, compare models, and store both metrics and models in a reproducible way.
 The project is suitable as a template for classification tasks requiring experiment tracking and visualization.
-![Mlflow_dtree.jpg]
+
+
+https://github.com/marcelinopereira/MLflow_classificator/issues/1#issue-3389308057
