@@ -20,4 +20,6 @@ MLflow is used to monitor experiments, compare models, and store both metrics an
 The project is suitable as a template for classification tasks requiring experiment tracking and visualization.
 
 
-![img]https://github.com/marcelinopereira/MLflow_classificator/issues/1
+!https://github.com/marcelinopereira/MLflow_classificator/issues/1
+
+
