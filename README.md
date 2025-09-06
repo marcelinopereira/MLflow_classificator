@@ -1,6 +1,4 @@
-MLflow Classification Pipeline
-English
-
+MLflow Classification 
 This project demonstrates a machine learning pipeline using MLflow for automation and tracking of model metrics in a classification problem.
 It focuses on Decision Tree and Random Forest models, including handling of imbalanced datasets using SMOTE oversampling.
 
